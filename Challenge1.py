@@ -25,5 +25,5 @@ for photo in json_data:
 
 print(len(url_list))
 #How many items are there if we turn that list into a set?
-
+print(len(set(url_list)))
 
